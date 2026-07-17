@@ -14,7 +14,7 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
+news:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
@@ -29,8 +29,4 @@ School of Software Technology, Zhejiang University
 Peng is currently with the School of Software, Zhejiang University as an Assistant Professor (100-Young Professor Program).
 He received his BSc degree from Peking University and PhD degree from National University of Singapore, in 2009 and 2014 repectively.
 
-Peng's research interests lies in the horizon of modern database systems, with focus on exploring the fundamental principles of the data systems for Artificial Intelligence (AI).
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Peng's research interests lies in the horizon of modern database systems, with recent focus on exploring the fundamental principles of the data systems for Artificial Intelligence (AI).
