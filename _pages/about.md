@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor (PhD Supervisor)
+subtitle: Assistant Professor, PhD Supervisor
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> 📬 peng DOT lu AT zju suffix</p>
-    
+    <p>📬 peng DOT lu AT zju suffix</p>
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -26,7 +26,6 @@ latest_posts:
 ---
 School of Software Technology, Zhejiang University
 
-Peng is currently with the School of Software, Zhejiang University as an Assistant Professor (100-Young Professor Program).
-He received his BSc degree from Peking University and PhD degree from National University of Singapore, in 2009 and 2014 repectively.
+Peng Lu is an Assistant Professor at the School of Software Technology, Zhejiang University, and a PhD supervisor. He received his BSc from Peking University and PhD from the National University of Singapore in 2009 and 2014, respectively.
 
-Peng's research interests lies in the horizon of modern database systems, with recent focus on exploring the fundamental principles of the data systems for Artificial Intelligence (AI).
+His research focuses on modern database systems and the design of data-intensive infrastructure for artificial intelligence. He is particularly interested in the foundational principles that enable efficient, scalable, and reliable systems for emerging AI-driven applications.
