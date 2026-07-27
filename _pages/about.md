@@ -26,6 +26,7 @@ latest_posts:
 ---
 School of Software Technology, Zhejiang University
 
-Peng Lu is an Assistant Professor at the School of Software Technology, Zhejiang University, and a PhD supervisor. He received his BSc from Peking University and PhD from the National University of Singapore in 2009 and 2014, respectively.
+Peng Lu is an Assistant Professor at the School of Software Technology, Zhejiang University. He received his BSc from Peking University and PhD from the National University of Singapore in 2009 and 2014, respectively.
 
-His research focuses on modern database systems and the design of data-intensive infrastructure for artificial intelligence. He is particularly interested in the foundational principles that enable efficient, scalable, and reliable systems for emerging AI-driven applications.
+His research focus on modern database systems and the design of data-intensive infrastructure. He is particularly interested in the foundational principles that enable efficient, scalable, and reliable data systems for emerging AI-driven applications.
+
