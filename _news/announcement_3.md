@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-07-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am always actively looking for highly self-motivated Ph.D. students, Master’s students and research interns. Please email me your CV if you are interested.
+
