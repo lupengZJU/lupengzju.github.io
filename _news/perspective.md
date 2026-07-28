@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To Prospective Students
-date: 2026-02-26 16:11:00-0400
+date: 2026-06-26 16:11:00-0400
 inline: false
 related_posts: false
 ---
