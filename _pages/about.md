@@ -26,6 +26,6 @@ latest_posts:
 ---
 School of Software Technology, Zhejiang University
 
-Peng Lu is an Assistant Professor at the School of Software Technology, Zhejiang University. He received his BSc from Peking University and PhD from the National University of Singapore(Advisor: ACM/IEEE/CAS Fellow Ooi Beng Chin) in 2009 and 2014, respectively.
+Peng Lu is an Assistant Professor at the School of Software Technology, Zhejiang University. He received his BSc from Peking University and PhD from the National University of Singapore (Advisor: ACM/IEEE/CAS Fellow Ooi Beng Chin) in 2009 and 2014, respectively.
 
-His research focus on modern database systems and the design of data-intensive infrastructure. He is particularly interested in the foundational principles that enable efficient, scalable, and reliable data systems for emerging AI-driven applications.
+His research interest is on database management systems, particularly in storage & indexing, query processing & optimization, and data infrastructure for AI.
