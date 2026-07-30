@@ -6,11 +6,9 @@ inline: false
 related_posts: false
 ---
 
-Greetings! 
+If you are reading this, you are likely interested in pushing the boundaries of how we store, process, and manage data at scale. Database systems research is one of ***the most demanding yet rewarding*** subfields in computer science. It sits at the rich intersection of complex software architecture, low-level systems programming, algorithms, and modern hardware constraints. 
 
-If you are reading this, you are likely interested in pushing the boundaries of how we store, process, and manage data at scale. Database systems research is one of the most demanding yet rewarding subfields in computer science. It sits at the rich intersection of complex software architecture, low-level systems programming, algorithms, and modern hardware constraints. 
-
-Before we start the long journey together, there are some of my personal notes that you might find helpful.
+Before we embark on this journey together, I want to share a few personal insights that you may find helpful along the way.
 
 ---
 
@@ -38,7 +36,7 @@ While you do not need to know everything on day one, a strong foundation acceler
 
 ## The Mindset
 
-Research is an exercise in managing ambiguity and failure. In systems research, your code will crash, your concurrency logic will deadlock, and weeks of benchmarking might prove your thesis wrong. This is not failure; this is the work. To develop the right mindset, read these seminal essays from leaders in academia and industry:
+Research is an exercise in managing ambiguity and failure. In systems research, your code will crash, your concurrency logic will deadlock, and weeks of benchmarking might prove your thesis wrong. This is not failure; this is the work. I've personally found these articles invaluable for building the kind of resilient mindset that research requires:
 
 <ul>
     <li>Richard Hamming’s <a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">"You and Your Research"</a>: A classic talk by Turing Award winner Richard Hamming on asking big questions: "What are the most important problems in your field? And why aren't you working on them?"</li>
@@ -68,5 +66,3 @@ Modern database engines are deeply tied to operating systems, cloud architecture
     <li>SOSP (ACM Symposium on Operating Systems Principles)</li>
     <li>EuroSys (ACM European Conference on Computer Systems)</li>
 </ul>
-
-Tip for Starters: Pick 2–3 papers from the most recent SIGMOD or VLDB proceedings that catch your interest. Read the Abstract, Introduction, and System Architecture sections first to get a high-level picture of how systems problems are framed before diving deep into the technical implementation details.
