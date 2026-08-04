@@ -404,8 +404,7 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
-    repository,
-    test,
+    paper,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
