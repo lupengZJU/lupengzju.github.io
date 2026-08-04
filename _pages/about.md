@@ -30,9 +30,9 @@ Peng Lu is an Assistant Professor (ZJU100 Young Professor) at the School of Soft
 
 His research interest is on database management systems, particularly in storage & indexing, query processing & optimization, and data infrastructure for AI.
 
-## Professional Services
-- VLDB Review Board/PC Member: 2022, 2023, 2024, 2026
-- ICDE PC Member: 2023, 2027
-- EDBT PC Member: 2026
-- CIKM PC Member: 2025, 2026
+--- 
 
+## Professional Services
+- VLDB Review Board/PC Member: 2023, 2024, 2026
+- ICDE PC Member: 2026, 2027
+- TKDE Reviewer: 2026
