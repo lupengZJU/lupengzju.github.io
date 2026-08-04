@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-nav: false
+title: Peng's blog
+nav: true
 nav_order: 1
 pagination:
   enabled: true
