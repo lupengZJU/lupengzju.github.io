@@ -7,3 +7,24 @@
 
 "Vision":
   color: "#009f36"
+
+"VLDB":
+  color: "#0e009e"
+
+"SIGMOD":
+  color: "#9800eb"
+
+"TKDE":
+  color: "#b04e04"
+
+"ICDE":
+  color: "#009f36"
+
+"ICML":
+  color: "#2596be"
+
+"AAAI":
+  color: "#f246b6"
+
+"NeurIPS":
+  color: "#ff6600"
