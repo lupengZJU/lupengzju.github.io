@@ -128,7 +128,7 @@ blog_name: Peng's Blog # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
-blog_page: true
+
 
 # Pagination
 pagination:
