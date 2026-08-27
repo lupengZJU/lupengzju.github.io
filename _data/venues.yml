@@ -11,6 +11,9 @@
 "VLDB":
   color: "#0e009e"
 
+"PVLDB":
+  color: "#0e009e"
+
 "SIGMOD":
   color: "#9800eb"
 
