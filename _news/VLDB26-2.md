@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by the conference of VLDB 2026
+One <a href="https://dl.acm.org/doi/abs/10.14778/3819518.3819563">paper</a> accepted by the conference of VLDB 2026

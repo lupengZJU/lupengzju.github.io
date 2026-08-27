@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by the conference of ICML 2026
+One <a href="https://arxiv.org/abs/2403.10318">paper</a> accepted by the conference of ICML 2026

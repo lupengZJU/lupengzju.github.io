@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-If you are reading this, you are likely interested in pushing the boundaries of how we store, process, and manage data at scale. Database systems research is one of ***the most demanding yet rewarding*** subfields in computer science. It sits at the rich intersection of complex software architecture, low-level systems programming, algorithms, and modern hardware constraints. 
+If you are reading this, you are likely interested in pushing the boundaries of how we store, process, and manage data at scale. Database systems research is one of ***the most demanding yet rewarding*** subfields in computer science. It sits at the rich intersection of complex software architecture, low-level systems programming, algorithms, and modern hardware constraints.
 
 Before we embark on this journey together, I want to share a few personal insights that you may find helpful along the way.
 
@@ -14,9 +14,9 @@ Before we embark on this journey together, I want to share a few personal insigh
 
 ## What is Database Systems Research?
 
-In undergraduate courses, you learn how to use existing database management systems or implement well-understood features. 
+In undergraduate courses, you learn how to use existing database management systems or implement well-understood features.
 
-> Research is fundamentally different: it is the process of generating new knowledge. 
+> Research is fundamentally different: it is the process of generating new knowledge.
 
 In database systems, research typically means identifying an unsolved bottleneck in modern data infrastructure—such as scaling transactional engine throughput on novel hardware architectures, optimizing distributed cloud-native databases, or leveraging machine learning for query optimization. You will hypothesize a solution, write high-performance prototype code to test it, and ruthlessly benchmark your work against the state-of-the-art.
 

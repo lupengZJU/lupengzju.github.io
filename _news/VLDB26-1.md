@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by the conference of VLDB 2026
+One <a href="https://www.vldb.org/pvldb/vol19/p1001-hou.pdf">paper</a> accepted by the conference of VLDB 2026
