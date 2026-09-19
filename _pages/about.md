@@ -26,7 +26,7 @@ latest_posts:
 ---
 School of Software Technology, Zhejiang University
 
-PPeng Lu is an Assistant Professor (ZJU100 Young Professor) at the School of Software Technology, Zhejiang University. He received his B.Sc. from Peking University in 2009 and his Ph.D. from the National University of Singapore in 2014, under the supervision of late Professor <a href="https://ooibc88.github.io">Ooi Beng Chin</a> (ACM, IEEE, and CAS Fellow). Before joining Zhejiang University, he served as a Postdoctoral Research Fellow and Research Director at the Zhejiang University Institute of Computing Innovation.
+Peng Lu is an Assistant Professor (ZJU100 Young Professor) at the School of Software Technology, Zhejiang University. He received his B.Sc. from Peking University in 2009 and his Ph.D. from the National University of Singapore in 2014, under the supervision of late Professor <a href="https://ooibc88.github.io">Ooi Beng Chin</a> (ACM, IEEE, and CAS Fellow). Before joining Zhejiang University, he served as a Postdoctoral Research Fellow and Research Director at the Zhejiang University Institute of Computing Innovation.
 
 His research focuses on database management systems, with particular interests in storage and indexing, query processing and optimization, and data infrastructure for artificial intelligence.
 
