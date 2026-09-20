@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One <a href="https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/5529.pdf">paper</a> accepted by the conference of IJCAI 2026
+One <a href="https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/5529.pdf">paper</a> accepted by IJCAI 2026

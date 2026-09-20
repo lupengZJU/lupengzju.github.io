@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by the conference of SIGMOD 2027
+One paper accepted by SIGMOD 2027
